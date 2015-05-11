@@ -20,4 +20,5 @@
 * Chapter 13 - Trust & Security
 * Chapter 14 - Governance And Policy
 * Part 4 - Pitfalls, Dangers, Promise And Opportunity
+* Chapter 15 - Immune Reactions Against The Shift
 
