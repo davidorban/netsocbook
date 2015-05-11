@@ -3,7 +3,7 @@
 * [Readme](README.md)
 * [Introduction](introduction.md)
 * [Preface](preface.md)
-* Part 1 - The Nation State, Its Triumph, And Its Limits
+* The Nation State, Its Triumph, And Its Limits
    * Chapter 1 - Centralized Organizations
    * Chapter 2 - The Triumph Of the Nation State
 * Chapter 2 - The Triumph Of the Nation State
