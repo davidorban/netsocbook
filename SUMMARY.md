@@ -20,7 +20,7 @@
    * Finance
    * Trust And Security
    * Governance And Policy
-* Pitfalls, Dangers, Promise And Opportunity
+* [Pitfalls, Dangers, Promise And Opportunity](pitfalls,_dangers,_promise_and_opportunity.md)
    * Immune Reactions Against The Shift
    * Disruption At A Planetary Scale
    * Tolerance And Resilience
