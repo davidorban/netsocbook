@@ -14,6 +14,7 @@
 * Part 3 - The Eight Pillars Of Change
    * Energy
    * Manufacturing
+   * Food
 * Chapter 9 - Food
 * Chapter 10 - Health
 * Chapter 11 - Culture And Learning
