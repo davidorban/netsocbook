@@ -13,7 +13,7 @@
    * [The Decentralization Of The Functions of The State](the_decentralization_of_the_functions_of_the_state.md)
 * [The Eight Pillars Of Change](the_eight_pillars_of_change.md)
    * [Energy](energy.md)
-   * Manufacturing
+   * [Manufacturing](manufacturing.md)
    * Food
    * Health
    * Culture And Learning
