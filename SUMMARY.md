@@ -17,7 +17,6 @@
    * Food
    * Culture And Learning
    * Finance
-* Chapter 12 - Finance
 * Chapter 13 - Trust & Security
 * Chapter 14 - Governance And Policy
 * Part 4 - Pitfalls, Dangers, Promise And Opportunity
