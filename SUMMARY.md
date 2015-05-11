@@ -16,6 +16,7 @@
    * Manufacturing
    * Food
    * Culture And Learning
+   * Finance
 * Chapter 11 - Culture And Learning
 * Chapter 12 - Finance
 * Chapter 13 - Trust & Security
