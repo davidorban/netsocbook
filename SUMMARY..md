@@ -9,4 +9,5 @@
 * Part 2 - The Technological Basis Of Social Evolution
 * Chapter 4 - Exponential Change
 * Chapter 5 - Why Society Changes?
+* Chapter 6 - The Decentralization Of The Functions of The State
 
