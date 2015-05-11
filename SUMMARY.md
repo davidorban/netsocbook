@@ -25,5 +25,5 @@
    * [Disruption At A Planetary Scale](disruption_at_a_planetary_scale.md)
    * [Tolerance And Resilience](tolerance_and_resilience.md)
    * Technology Based Unbounded Future
-* Epilogue
+* [Epilogue](epilogue.md)
 
