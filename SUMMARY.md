@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Preface](preface.md)
 * The Nation State, Its Triumph, And Its Limits
-   * Chapter 1 - Centralized Organizations
+   * Centralized Organizations
    * Chapter 2 - The Triumph Of the Nation State
 * Chapter 2 - The Triumph Of the Nation State
 * Chapter 3 - The Limits Of Hierarchies
