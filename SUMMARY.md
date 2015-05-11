@@ -14,7 +14,6 @@
 * Part 3 - The Eight Pillars Of Change
    * Energy
    * Manufacturing
-* Chapter 7 - Energy
 * Chapter 8 - Manufacturing
 * Chapter 9 - Food
 * Chapter 10 - Health
