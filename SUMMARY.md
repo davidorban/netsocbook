@@ -1,5 +1,6 @@
 # Summary
 
+* [Readme](README.md)
 * [Introduction](introduction.md)
 * [Preface](preface.md)
 * Part 1 - The Nation State, Its Triumph, And Its Limits
