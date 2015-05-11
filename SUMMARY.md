@@ -17,7 +17,7 @@
    * [Food](food.md)
    * [Health](health.md)
    * [Culture And Learning](culture_and_learning.md)
-   * Finance
+   * [Finance](finance.md)
    * Trust And Security
    * Governance And Policy
 * [Pitfalls, Dangers, Promise And Opportunity](pitfalls,_dangers,_promise_and_opportunity.md)
