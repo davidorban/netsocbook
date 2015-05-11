@@ -23,6 +23,7 @@
 * Pitfalls, Dangers, Promise And Opportunity
    * Immune Reactions Against The Shift
    * Disruption At A Planetary Scale
+   * Tolerance And Resilience
 * Chapter 15 - Immune Reactions Against The Shift
 * Chapter 16 - Disruption At A Planetary Scale
 * Chapter 17 - Tolerance And Resilience
