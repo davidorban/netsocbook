@@ -11,7 +11,7 @@
    * Exponential Change
    * Why Does Society Change?
    * The Decentralization Of The Functions of The State
-* Part 3 - The Eight Pillars Of Change
+* The Eight Pillars Of Change
    * Energy
    * Manufacturing
    * Food
