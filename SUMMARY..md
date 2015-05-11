@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](introduction.md)
-* Preface
+* [Preface](preface.md)
 * Part 1 - The Nation State, Its Triumph, And Its Limits
 * Chapter 1 - Centralized Organizations
 * Chapter 2 - The Triumph Of the Nation State
