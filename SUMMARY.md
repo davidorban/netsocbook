@@ -23,7 +23,7 @@
 * [Pitfalls, Dangers, Promise And Opportunity](pitfalls,_dangers,_promise_and_opportunity.md)
    * [Immune Reactions Against The Shift](immune_reactions_against_the_shift.md)
    * [Disruption At A Planetary Scale](disruption_at_a_planetary_scale.md)
-   * Tolerance And Resilience
+   * [Tolerance And Resilience](tolerance_and_resilience.md)
    * Technology Based Unbounded Future
 * Epilogue
 
