@@ -19,6 +19,7 @@
    * Culture And Learning
    * Finance
    * Trust And Security
+   * Governance And Policy
 * Chapter 14 - Governance And Policy
 * Part 4 - Pitfalls, Dangers, Promise And Opportunity
 * Chapter 15 - Immune Reactions Against The Shift
