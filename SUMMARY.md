@@ -8,7 +8,7 @@
    * [The Triumph Of the Nation State](the_triumph_of_the_nation_state.md)
    * [The Limits Of Hierarchies](the_limits_of_hierarchies.md)
 * [The Technological Basis Of Social Evolution](the_technological_basis_of_social_evolution.md)
-   * Exponential Change
+   * [Exponential Change](exponential_change.md)
    * Why Does Society Change?
    * The Decentralization Of The Functions of The State
 * The Eight Pillars Of Change
