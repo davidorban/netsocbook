@@ -12,4 +12,5 @@
 * Chapter 6 - The Decentralization Of The Functions of The State
 * Part 3 - The Eight Pillars Of Change
 * Chapter 7 - Energy
+* Chapter 8 - Manufacturing
 
