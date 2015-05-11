@@ -9,6 +9,7 @@
    * The Limits Of Hierarchies
 * The Technological Basis Of Social Evolution
    * Exponential Change
+   * Why Does Society Change?
 * Chapter 5 - Why Society Changes?
 * Chapter 6 - The Decentralization Of The Functions of The State
 * Part 3 - The Eight Pillars Of Change
