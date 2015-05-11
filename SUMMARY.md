@@ -10,6 +10,7 @@
 * The Technological Basis Of Social Evolution
    * Exponential Change
    * Why Does Society Change?
+   * The Decentralization Of The Functions of The State
 * Chapter 6 - The Decentralization Of The Functions of The State
 * Part 3 - The Eight Pillars Of Change
 * Chapter 7 - Energy
