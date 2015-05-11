@@ -24,6 +24,7 @@
    * Immune Reactions Against The Shift
    * Disruption At A Planetary Scale
    * Tolerance And Resilience
+   * Technology Based Unbounded Future
 * Chapter 18 - Technology Based Unbounded Future
 * Chapter 19 - Epilogue
 
