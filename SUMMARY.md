@@ -7,7 +7,6 @@
    * Centralized Organizations
    * The Triumph Of the Nation State
    * The Limits Of Hierarchies
-* The Limits Of Hierarchies
 * Part 2 - The Technological Basis Of Social Evolution
 * Chapter 4 - Exponential Change
 * Chapter 5 - Why Society Changes?
