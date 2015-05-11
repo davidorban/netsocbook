@@ -10,4 +10,5 @@
 * Chapter 4 - Exponential Change
 * Chapter 5 - Why Society Changes?
 * Chapter 6 - The Decentralization Of The Functions of The State
+* Part 3 - The Eight Pillars Of Change
 
