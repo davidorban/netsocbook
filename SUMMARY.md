@@ -5,7 +5,7 @@
 * [Preface](preface.md)
 * [The Nation State, Its Triumph, And Its Limits](the_nation_state,_its_triumph,_and_its_limits.md)
    * [Centralized Organizations](centralized_organizations.md)
-   * The Triumph Of the Nation State
+   * [The Triumph Of the Nation State](the_triumph_of_the_nation_state.md)
    * The Limits Of Hierarchies
 * The Technological Basis Of Social Evolution
    * Exponential Change
