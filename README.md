@@ -1,2 +1,0 @@
-# netsocbook
-Network Society book
