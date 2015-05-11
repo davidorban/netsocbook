@@ -10,7 +10,7 @@
 * [The Technological Basis Of Social Evolution](the_technological_basis_of_social_evolution.md)
    * [Exponential Change](exponential_change.md)
    * [Why Does Society Change?](why_does_society_change.md)
-   * The Decentralization Of The Functions of The State
+   * [The Decentralization Of The Functions of The State](the_decentralization_of_the_functions_of_the_state.md)
 * The Eight Pillars Of Change
    * Energy
    * Manufacturing
