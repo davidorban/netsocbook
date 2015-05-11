@@ -9,7 +9,7 @@
    * [The Limits Of Hierarchies](the_limits_of_hierarchies.md)
 * [The Technological Basis Of Social Evolution](the_technological_basis_of_social_evolution.md)
    * [Exponential Change](exponential_change.md)
-   * Why Does Society Change?
+   * [Why Does Society Change?](why_does_society_change.md)
    * The Decentralization Of The Functions of The State
 * The Eight Pillars Of Change
    * Energy
