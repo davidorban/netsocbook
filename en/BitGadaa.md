@@ -19,7 +19,7 @@ In light of the Oromo aphorism as well as the structural innovations and univers
 
 #### 2.1. Gadaa in the Spotlight
 
-To say that there was at least one democratic system in Africa centuries before the West is heretical. "In much of what is written about Africa, the common image is that of people governed by primitive customs and practices, in which only the feudal roles by elders, kings, chiefs, sultans, and emirs have been acknowledged by Western observers." (See Asmarom Legesse, "Oromo Democracy: An Indigenous African Political System", 2006.)
+To say that there was at least one democratic system in Africa centuries before the West may sound heretical. "In much of what is written about Africa, the common image is that of people governed by primitive customs and practices, in which only the feudal roles by elders, kings, chiefs, sultans, and emirs have been acknowledged by Western observers." (See Asmarom Legesse, "Oromo Democracy: An Indigenous African Political System", 2006.)
 
 An endeavor such as BitGadaa would serve the purpose of introducing Gadaa (and similar systems) to the wider public. To do away with the civilized-savage distinction that has plagued much of anthropological thinking (and history), initiatives that integrate multiple cultures toward a universal culture could play a key role.
 
@@ -111,7 +111,7 @@ A mathematical social contract like the Gadaa protocol can readily be encoded as
 
 BitGadaa realizes Gadaa, which we characterized as a *reputation-based P2P governance protocol with spatio-temporal stratification*. The DAO above will have, in addition to basic network formation, conversation functionality and spatio-temporal stratification ("Shanan Gadaa"), additional algorithms for reputation management, automated role assignment, voting, peer-to-peer collaboration, tokenized rewards, etc. We believe the principles of Oromo democracy do inform design decisions reflected in the blockchain structure.
 
-Individuals should be able to access the BitGadaa peer-to-peer social network over the Internet using various means, including but not limited to mobile and web apps. Extensions to the basic system should allow the development of additional functionalities in an open source manner.
+Individuals should be able to access the BitGadaa peer-to-peer social network over the Internet using various means, including but not limited to mobile apps and web gateways. Extensions to the basic system should allow the development of additional functionalities in an open source manner.
 
 One thing we should mention is that BitGadaa is not the only DAO being designed.  It shares common functionality and design rationale with the likes of BitCongress and Bitnation, which we will compare it with next.
 
