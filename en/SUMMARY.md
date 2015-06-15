@@ -27,6 +27,6 @@
    * [Tolerance And Resilience](tolerance_and_resilience.md)
    * [Technology Based Unbounded Future](technology_based_unbounded_future.md)
    * [The Networked Consumer](The_Networked_Consumer.md)
-* [BitGadaa: an African Blockchain Democracy](BitGadaa.md)
+   * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
 * [Epilogue](epilogue.md)
 
