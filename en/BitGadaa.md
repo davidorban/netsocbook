@@ -1,4 +1,4 @@
-## BitGadaa: an African Blockchain Democracy
+## BitGadaa: a Futuristic African Democracy
 #### Naol Duga (<naol@gmx.com>)
 
 ### 1. Introduction
