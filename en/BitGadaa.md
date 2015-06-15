@@ -105,9 +105,9 @@ People have since studied the blockchain and imagined many applications. Once yo
 
 Blockchains enable the construction of social institutions in a peer-to-peer, trustworthy, and scalable manner. A blockchain can be programmed to encode logic (say about a social relationship) and can execute it in a distributed manner on all nodes in the network. Code written for blockchains (and similar consensus ledgers) is known as a "smart contract". The network that allows smart contracts to self-enforce is a distributed virtual machine, appropriately updating the blockchain based on consensus.
 
-#### 4.4. (Bit)Gadaa as a DAO
+#### 4.4. BitGadaa as a DAO
 
-A mathematical social contract like the Gadaa protocol can readily be encoded as as a set of smart contracts, forming what has come to be known as a Distributed Autonomous Organization (DAO). If a society (say the Oromo) chooses to govern itself with a DAO (say BitGadaa), a so-called Distributed Autonomous Society (DAS) emerges.
+A mathematical social contract like the Gadaa protocol can readily be encoded as as a set of smart contracts, forming what has come to be known as a Decentralized Autonomous Organization (DAO). If a society (say the Oromo) chooses to govern itself with a DAO (say BitGadaa), a so-called Decentralized Autonomous Society (DAS) emerges.
 
 #### 4.5. Practicalities
 
