@@ -3,7 +3,7 @@
 
 ### 1. Introduction
 
-The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By remembering the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture"–, according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
+The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By remembering the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
 
 Gadaa, an indigenous African democratic system, which A. Jalata calls "the totality of Oromo civilization", is a manifestation of the philosophy behind this aphorism. Based on an ancient calendar, and with a myth going back to the Kushite-Kemetic days by the riverbanks of the Nile, Gadaa is an egalitarian social class system based on time (and reputation). It is a rather complex structure that compelled Donald Levine to refer to it as "one of the most complex systems of social organization ever devised by the human imagination". Asmarom Legesse, a renowned Gadaa expert, commented "[Gadaa is] one of the most instructive turns the evolution of human society has taken".
 
@@ -93,7 +93,7 @@ The Rai stones of the Yap people in Micronesia served as a way to maintain infor
 
 How about scaling to millions? How about people who don't know each other and can not be expected to trust each other? To go beyond consensus as a social process among people deciding by the shade, and scale to millions of people in a trustworthy manner, we need *consensus algorithms*.
 
-The consensus problem in computer science has been studied for decades. The first practical solution came in the form of a peer-to-peer currency when Satoshi Nakamoto introduced the *blockchain*, applying clever mathematics to solve a fundamental problem.
+The consensus problem in computer science has been studied for decades. The first practical solution came in the form of a peer-to-peer currency when Satoshi Nakamoto introduced the *blockchain*, in 2008, applying clever mathematics to solve a fundamental problem.
 
 The blockchain is nothing more than a public ledger - only digital. It is not that different from a record of Rai stones or the evolution of the Gadaa process over time as told by oral historians. No single entity can change what happened in the past and a consensus is required to change the future.
 
