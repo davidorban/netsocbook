@@ -1,5 +1,6 @@
 # Summary
 
+* [introduction](README.md)
 * [About this book](SUMMARY.md)
 * [Introduction](introduction.md)
 * [Preface](preface.md)
@@ -27,5 +28,6 @@
    * [Technology Based Unbounded Future](technology_based_unbounded_future.md)
    * [The Networked Consumer](The_Networked_Consumer.md)
    * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
+       * Test
 * [Epilogue](epilogue.md)
 
