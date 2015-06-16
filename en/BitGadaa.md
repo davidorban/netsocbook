@@ -163,7 +163,7 @@ Individuals need to have critical consciousness akin to Paul Freire's *conscient
 
 #### 5.3. Summary
 
-We have discussed how the future can be informed by the past and how the traditional could be modernized with past ideas realized through future technologies. As a specific case, we have looked at Gadaa, an indigenous African democracy belonging to the Oromo of Ethiopia, and its futuristic incarnation, BitGadaa, a democratic governance DAO in cyberspace. The Oromo aphorism “By remembering the past, the future is remembered” summarizes our thinking. Gadaa is a remembrance of the past, BitGadaa is a remembrance of the future.
+We have discussed how the future can be informed by the past and how the traditional could be modernized with past ideas realized through future technologies. As a specific case, we have looked at Gadaa, an indigenous African democracy belonging to the Oromo, and its futuristic incarnation, BitGadaa, a democratic governance DAO in cyberspace. The Oromo aphorism “By remembering the past, the future is remembered” summarizes our thinking. Gadaa is a remembrance of the past, BitGadaa is a remembrance of the future.
 
 ----
 
