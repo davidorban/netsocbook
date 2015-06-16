@@ -1,5 +1,7 @@
 ## BitGadaa: a Futuristic African Democracy
 
+*Naol Duga*
+
 ### 1. Introduction
 
 The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By remembering the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
