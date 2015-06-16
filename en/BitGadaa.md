@@ -1,5 +1,4 @@
 ## BitGadaa: a Futuristic African Democracy
-#### Naol Duga (<naol@gmx.com>)
 
 ### 1. Introduction
 
@@ -58,7 +57,7 @@ Taking the complexity of Gadaa into account, it is perhaps wise to focus on its 
 
 The social *structure* can be simplified as has been suggested by scholars like Asmarom Legesse should a modern synthesis (say BitGadaa) is desired. Furthermore, two shortcomings of the system need to be addressed. One is the exclusion of females from the political strata. The other is the problem of scaling the Gadaa consensus procedure to millions of people instead of thousands. The former, the issue of females, can be addressed by agreeing that social roles will be gender-agnostic, something that has happened in many democracies (also a change that has already happened in Oromo society with the introduction of Western democracy in the past few decades). The latter, scalable democratic consensus, could be solved using technology, as we will see later.
 
-#### 3.1.1. Structural Essence
+#### 3.2. Structural Essence
 
 Gadaa can be seen as a protocol that operates in a peer-to-peer manner over a social network. Individuals join the network ("birth") and leave ("death"). Depending on how much time the individual has spent in the network ("age"), he will be a member of an age group. (Hence the temporal stratification of Gadaa.) There are a number of named levels (~10), each with a time period of 8 years. Except the first few levels, each age group has its own assembly. Individuals build reputation over time and are elected for specific roles. Every individual is in one of 5 parties, which assume leadership roles in a round-robin fashion. As such, there is a spatial stratification of individuals. Each of these parties (known as the "Shanan Gadaa") has a traditional attribute. (These can be mapped to a modern two-axis political spectrum; economic: left/right, social: authoritarian/libertarian, plus a neutral position. See PoliticalCompass.org for an example.) People convene at the "assembly of the multitudes" known as the *Gumii* (or *Caffee*), out in the open where everyone can voice their opinion. This ritual involves intense debate, legislation, impeachment, etc. showing how adaptive the system is. At its core, Gadaa is all about social *consensus* and a collaborative economy. At a meta-level, it's a *reputation-based P2P governance protocol with spatio-temporal stratification*. Deep down it resembles a classless society, the ultimate condition of social organization in Marxism.
 
@@ -66,7 +65,7 @@ The aforementioned protocol might appear fairly reductionist for a system as com
 
 However, it is on top of this basic peer-to-peer protocol that the Oromo polity is overlay, including, in the past, the socioeconomic activities of the society. With the Gadaa system which is without hierarchy and centralized orchestration, the people defended their interest and went about conducting their affairs in a democratic and meritocratic manner.
 
-#### 3.1.2. Toward a Digital Synthesis of Gadaa
+#### 3.3. Toward a Digital Synthesis of Gadaa
 
 Normally a social contract like the Gadaa protocol would be written as a constitution. As the Gadaa protocol is not written, and events are not properly recorded, the process has to rely on the collective memory of the people, particularly the capacity of elderly experts. Keeping track of historical events and agreements reached after lengthy conversations becomes difficult. For an external observer, the democratic process might be mistaken for a gerontocracy.
 
@@ -138,7 +137,7 @@ We believe that *BitGadaa* has the potential to answer the two questions we rais
 
 But, what does this all mean? How are we to comprehend the whole initiative? What do we learn from BitGadaa?
 
-#### 5.1. BitGadaa *as* Gadaa
+#### 5.1. BitGadaa as Gadaa
 
 The simulation of the Gadaa process described by Asmarom Legesse [1973] doesn’t involve culturally situated agents. BitGadaa as a simulation of Gadaa gives agency to the Oromo in cyberspace who can use it as a medium to conduct some of their affairs. So the former simulation is one of understanding and verifying, while the latter is about synthesizing and reconstructing Gadaa.
 
@@ -150,11 +149,11 @@ The simulation of Gadaa as BitGadaa will create what postmodern philosopher Jean
 #### 5.2. General Remarks
 
 
-##### 5.2.1 Past Ideas are Future Technologies
+##### 5.2.1 Past Ideas, Future Technologies
 
 Ideas such as decentralization, keeping a public ledger of some sort, the distribution of power based on reputation, etc. that are evident in past systems such as *Gadaa* are now central to contemporary ideas and movements such as collaborative commons, distributed governance, reputation as capital, etc. It seems that ideas from the past could go mainstream in the future through appropriate technology.
 
-##### 5.2.2 Identity Matters in the Network Society
+##### 5.2.2 Identity in the Network Society
 
 However future social organizations are going to look like, individuals are likely to keep their cultures. (For an interesting take on this subject, see Manuel Castells' trilogy "The Information Age: Economy, Society and Culture"). The Network Society, albeit borderless and decentralized, is bound to have numerous cultural and ideological cliques as a result of technology-enabled ease of voluntary association. The case of (Bit)Gadaa is only one among many such associations.
 
@@ -165,3 +164,7 @@ Individuals need to have critical consciousness akin to Paul Freire's *conscient
 #### 5.3. Summary
 
 We have discussed how the future can be informed by the past and how the traditional could be modernized with past ideas realized through future technologies. As a specific case, we have looked at Gadaa, an indigenous African democracy belonging to the Oromo of Ethiopia, and its futuristic incarnation, BitGadaa, a democratic governance DAO in cyberspace. The Oromo aphorism “By remembering the past, the future is remembered” summarizes our thinking. Gadaa is a remembrance of the past, BitGadaa is a remembrance of the future.
+
+----
+
+The author, Naol Duga, can be reached at <naol@gmx.com>.
