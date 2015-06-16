@@ -26,8 +26,8 @@
    * [Disruption At A Planetary Scale](disruption_at_a_planetary_scale.md)
    * [Tolerance And Resilience](tolerance_and_resilience.md)
    * [Technology Based Unbounded Future](technology_based_unbounded_future.md)
-   * Test
    * [The Networked Consumer](The_Networked_Consumer.md)
    * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
+* Test
 * [Epilogue](epilogue.md)
 
