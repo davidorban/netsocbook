@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By remembering the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
+The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By rememberding the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
 
 Gadaa, an indigenous African democratic system, which A. Jalata calls "the totality of Oromo civilization", is a manifestation of the philosophy behind this aphorism. Based on an ancient calendar, and with a myth going back to the Kushite-Kemetic days by the riverbanks of the Nile, Gadaa is an egalitarian social class system based on time (and reputation). It is a rather complex structure that compelled Donald Levine to refer to it as "one of the most complex systems of social organization ever devised by the human imagination". Asmarom Legesse, a renowned Gadaa expert, commented "[Gadaa is] one of the most instructive turns the evolution of human society has taken".
 
@@ -44,7 +44,7 @@ The question, then, is if can we use a similar computational thinking approach t
 
 #### 2.3. Gadaa: a Modern Synthesis?
 
-Little has been done to reconstruct Gadaa. Currently it is a little-known peripheral institution considered archaic by many. The way it functioned and distributed power among the people is very differrent from the Nation State paradigm which has superceded it.
+Little has been done to reconstruct Gadaa. Currently it is a little-known peripheral institution considered archaic by many. The way it functioned and distributed power among the people is very different from the Nation State paradigm which has superceded it.
 
 Two efforts are worth mentioning with respect to a modern synthesis of Gadaa. The first is a thesis by Z. Sirna ("Ethiopia: When the Gadaa System Rules in a Federal State", 2012.) which explored the possibility of distributed governance using Gadaa from a legal and indigenous studies perspective. The second is a political organization known as "Gadaa System Advancement Party". Other efforts borrow names from the Gadaa tradition but they rarely retain the structure and the principles of the system.
 
@@ -169,4 +169,4 @@ We have discussed how the future can be informed by the past and how the traditi
 
 ----
 
-The author, Naol Duga, can be reached at <naol@gmx.com>.
+The author can be reached via mail at <naol@gmx.com>.
