@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By rememberding the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
+The Oromo aphorism *Kan darbe yaadatani, isa gara fuula itti yaaddu* (By remembering the past, the future is remembered) – "the most philosophically interesting statement in Ethiopian culture", according to M. Mennasemay, "incubates a non-linear conception of history, a future-oriented understanding of tradition, and a conception of emancipation that embraces political and economic democracy, social justice and cultural flourishing."
 
 Gadaa, an indigenous African democratic system, which A. Jalata calls "the totality of Oromo civilization", is a manifestation of the philosophy behind this aphorism. Based on an ancient calendar, and with a myth going back to the Kushite-Kemetic days by the riverbanks of the Nile, Gadaa is an egalitarian social class system based on time (and reputation). It is a rather complex structure that compelled Donald Levine to refer to it as "one of the most complex systems of social organization ever devised by the human imagination". Asmarom Legesse, a renowned Gadaa expert, commented "[Gadaa is] one of the most instructive turns the evolution of human society has taken".
 
