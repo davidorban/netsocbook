@@ -29,6 +29,6 @@
    * [The Networked Consumer](The_Networked_Consumer.md)
    * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
-* [Epilogue](epilogue.md)
 * [The Role Of The Creative Agent](creative_agent.md)
+* [Epilogue](epilogue.md)
 
