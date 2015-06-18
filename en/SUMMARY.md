@@ -22,6 +22,7 @@
    * [Trust And Security](trust_and_security.md)
    * [Governance And Policy](governance_and_policy.md)
 * [Pitfalls, Dangers, Promise And Opportunity](pitfalls,_dangers,_promise_and_opportunity.md)
+   * [The Role Of The Creative Agent](creative_agent.md)
    * [Immune Reactions Against The Shift](immune_reactions_against_the_shift.md)
    * [Disruption At A Planetary Scale](disruption_at_a_planetary_scale.md)
    * [Tolerance And Resilience](tolerance_and_resilience.md)
@@ -29,6 +30,5 @@
    * [The Networked Consumer](The_Networked_Consumer.md)
    * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
-* [The Role Of The Creative Agent](creative_agent.md)
 * [Epilogue](epilogue.md)
 
