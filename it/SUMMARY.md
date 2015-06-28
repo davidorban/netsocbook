@@ -30,6 +30,6 @@
    * [The Role Of The Creative Agent](creative_agent.md)
    * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
-   * [La situazione dell'Italia](italia.md)
+   * [La situazione dell'Italia](italiamd.md)
 * [Epilogue](epilogue.md)
 
