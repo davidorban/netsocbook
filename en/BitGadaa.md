@@ -163,7 +163,7 @@ However future social organizations are going to look like, individuals are like
 
 ##### 5.2.3 African Development, Conscientization, and Technology
 
-Individuals need to have critical consciousness akin to Paul Freire's *conscientization* in order to reflect on the past and future of the world they occupy so as to change it. People should be in a position to be aware of what works well (or has worked well) in their environment and try to amplify it using technology. With decentralized technologies such as the blockchain, African visionaries now have the opportunity to innovate. Initiatives such as BitGadaa are more likely to empower people than borrowed solutions to African problems.
+Individuals need to have critical consciousness akin to Paolo Freire's *conscientização* in order to reflect on the past and future of the world they occupy so as to change it. People should be in a position to be aware of what works well (or has worked well) in their environment and try to amplify it using technology. With decentralized technologies such as the blockchain, African visionaries now have the opportunity to innovate. Initiatives such as BitGadaa are more likely to empower people than borrowed solutions to African problems.
 
 #### 5.3. Summary
 
