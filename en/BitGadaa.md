@@ -34,7 +34,7 @@ As we will see next the study of Gadaa has been approached from a computational 
 
 #### 2.2. Gadaa, Computers, Eureka
 
-There was a eureka moment for Asmarom Legesse sometime in the late sixties. With the coaching of Harrison C. White, he succeeded in empirically verifying the structural model of Gadaa he came up with. He simulated the evolution of the Gadaa social system over 400 years using a generative model and data from Mexico and the Boran Oromo (who still practice Gadaa alongside the central Ethiopian government). He described his success saying:
+There was a eureka moment for Asmarom Legesse sometime in the late sixties. With the coaching of Harrison C. White, he succeeded in empirically validating the structural model of Gadaa he came up with. He simulated the evolution of the Gadaa social system over 400 years using a generative model and data from Mexico and the Boran Oromo (who still practice Gadaa alongside the central Ethiopian government). He described his success saying:
 
 > Perhaps for the first time in the history of anthropology the evolution of a social system has been replicated experimentally [on a high-speed computer].
 
@@ -55,7 +55,7 @@ It is against this backdrop and with the conversation around a technology-based 
 
 #### 3.1. Principles vs. Structure
 
-Taking the complexity of Gadaa into account, it is perhaps wise to focus on its essence. Its *principles* like the rule of law, merit-based roles, egalitarianism, balanced opposition, distribution of power across groups and generations, check and balance, adaptiveness, etc. will remain part of what we take as being the essence of Gadaa. What Walter Plowden, a British diplomat, said ("[Gadaa is] as pure as a republic can exist") hints at the primacy of democratic ideals in Gadaa.
+Taking the complexity of Gadaa into account, it is perhaps wise to focus on its essence. Its *principles* like the rule of law, merit-based roles, egalitarianism, balanced opposition, distribution of power across groups and generations, check and balance, adaptiveness, etc. will remain part of what we take as being the essence of Gadaa. What the British diplomat Walter Plowden said ("of all republican systems, Gadaa is superior") hints at the primacy of democratic ideals in the system.
 
 The social *structure* can be simplified as has been suggested by scholars like Asmarom Legesse should a modern synthesis (say BitGadaa) is desired. Furthermore, two shortcomings of the system need to be addressed. One is the exclusion of females from the political strata. The other is the problem of scaling the Gadaa consensus procedure to millions of people instead of thousands. The former, the issue of females, can be addressed by agreeing that social roles will be gender-agnostic, something that has happened in many democracies (also a change that has already happened in Oromo society with the introduction of Western democracy in the past few decades). The latter, scalable democratic consensus, could be solved using technology, as we will see later.
 
@@ -73,7 +73,7 @@ However, it is on top of this basic peer-to-peer protocol that the Oromo polity 
 
 Normally a social contract like the Gadaa protocol would be written as a constitution. As the Gadaa protocol is not written, and events are not properly recorded, the process has to rely on the collective memory of the people, particularly the capacity of elderly experts. Keeping track of historical events and agreements reached after lengthy conversations becomes difficult. For an external observer, the democratic process might be mistaken for a gerontocracy.
 
-Beyond a record of history, a practical problem would certainly be conducting Gadaa assemblies at scale. It maybe possible for a thousand or so people to make 'decisions by the shade', say sitting by the sacred "oda" tree of the Oromo, but this is impossible for millions of people who may be at different locations.
+Beyond a record of history, a practical problem would certainly be conducting Gadaa assemblies at scale. It may be possible for a thousand or so people to make 'decisions by the shade', say sitting by the sacred "oda" tree of the Oromo, but this is impossible for millions of people who may be at different locations.
 
 Before presenting BitGadaa, we ask two questions that it aims to answer.
 
