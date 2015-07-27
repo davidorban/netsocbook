@@ -1,4 +1,4 @@
-## BitGadaa: a Futuristic African Democracy
+## BitGadaa: Futuristic African Democracy
 
 *Naol Duga*
 
@@ -57,7 +57,7 @@ It is against this backdrop and with the conversation around a technology-based 
 
 Taking the complexity of Gadaa into account, it is perhaps wise to focus on its essence. Its *principles* like the rule of law, merit-based roles, egalitarianism, balanced opposition, distribution of power across groups and generations, check and balance, adaptiveness, etc. will remain part of what we take as being the essence of Gadaa. What the British diplomat Walter Plowden said ("of all republican systems, Gadaa is superior") hints at the primacy of democratic ideals in the system.
 
-The social *structure* can be simplified as has been suggested by scholars like Asmarom Legesse should a modern synthesis (say BitGadaa) is desired. Furthermore, two shortcomings of the system need to be addressed. One is the exclusion of females from the political strata. The other is the problem of scaling the Gadaa consensus procedure to millions of people instead of thousands. The former, the issue of females, can be addressed by agreeing that social roles will be gender-agnostic, something that has happened in many democracies (also a change that has already happened in Oromo society with the introduction of Western democracy in the past few decades). The latter, scalable democratic consensus, could be solved using technology, as we will see later.
+The social *structure* can be simplified as has been suggested by scholars like Asmarom Legesse should a modern synthesis (say BitGadaa) is desired. Furthermore, two shortcomings of the system need to be addressed. One is the exclusion of females from political affairs. The other is the problem of scaling the Gadaa consensus procedure to millions of people instead of thousands. The former, the issue of females, can be addressed by agreeing that social roles will be gender-agnostic. This is something that has happened in many democracies (also a change that has already happened in Oromo society in the past decades). The latter, scalable democratic consensus, could be solved using technology, as we will see later.
 
 #### 3.2. Structural Essence
 
@@ -116,7 +116,7 @@ A mathematical social contract like the Gadaa protocol can readily be encoded as
 
 #### 4.5. Practicalities
 
-BitGadaa realizes Gadaa, which we characterized as a *reputation-based peer-to-peer governance protocol with spatio-temporal classification*. The DAO will have, in addition to basic network formation and conversation/consensus functionality, additional algorithms for reputation management, automated role assignment, voting, peer-to-peer collaboration, tokenized rewards, etc. We believe the principles of Oromo democracy do inform design decisions reflected in the blockchain structure.
+BitGadaa realizes Gadaa, which we characterized as a *reputation-based peer-to-peer governance protocol with spatio-temporal classification*. The DAO will have, in addition to basic network formation and conversation/consensus functionality, additional algorithms for reputation management, automated role assignment, voting, peer-to-peer collaboration, tokenized rewards, etc. We believe the principles of Oromo democracy do inform design decisions reflected in the blockchain structure. BitGadaa in this sense is governance 2.0 built on an indigenous democracy.
 
 Individuals should be able to access the BitGadaa peer-to-peer social network over the Internet using various means, including but not limited to mobile apps and web gateways. Extensions to the basic system should allow the development of additional functionalities in an open source manner.
 
@@ -163,7 +163,7 @@ However future social organizations are going to look like, individuals are like
 
 ##### 5.2.3 African Development, Conscientization, and Technology
 
-Individuals need to have critical consciousness akin to Paolo Freire's *conscientização* in order to reflect on the past and future of the world they occupy so as to change it. People should be in a position to be aware of what works well (or has worked well) in their environment and try to amplify it using technology. With decentralized technologies such as the blockchain, African visionaries now have the opportunity to innovate. Initiatives such as BitGadaa are more likely to empower people than borrowed solutions to African problems.
+Individuals need to have critical consciousness akin to Paulo Freire's *conscientização* in order to reflect on the past and future of the world they occupy so as to change it. People should be in a position to be aware of what works well (or has worked well) in their environment and try to amplify it using technology. With decentralized technologies such as the blockchain, African visionaries now have the opportunity to innovate. Initiatives such as BitGadaa are more likely to empower people than borrowed solutions to African problems.
 
 #### 5.3. Summary
 
