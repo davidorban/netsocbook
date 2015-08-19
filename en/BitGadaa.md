@@ -112,7 +112,7 @@ Blockchains enable the construction of social institutions in a peer-to-peer, tr
 
 #### 4.4. BitGadaa as a DAO
 
-A mathematical social contract like the Gadaa protocol can readily be encoded as as a set of smart contracts, forming what has come to be known as a Decentralized Autonomous Organization (DAO). If a society (say the Oromo) chooses to govern itself with a DAO (say BitGadaa), a so-called Decentralized Autonomous Society (DAS) emerges.
+A mathematical social contract like the Gadaa protocol can readily be encoded as a set of smart contracts, forming what has come to be known as a Decentralized Autonomous Organization (DAO). If a society (say the Oromo) chooses to govern itself with a DAO (say BitGadaa), a so-called Decentralized Autonomous Society (DAS) emerges.
 
 #### 4.5. Practicalities
 
@@ -124,9 +124,9 @@ One thing we should mention is that BitGadaa is not the only DAO being designed.
 
 #### 4.6. (Bit)Gadaa and (Bit)Congress
 
-There are two main differences between Gadaa (and other institutions in Oromo polity) and US Congress. First, the Gadaa constitution is hitherto unwritten. Second, the Gadaa assembly is open to everyone, not only to a few. One can draw lessons from the other; an obvious example is making laws drafted via BitGadaa to be available in written form. It should be noted that consensus is once again key here. Law amendment in Gadaa could not be done by a single individual or even few people; "everyone" should agree. (The well-known story of Kurt Gödel finding a logical loophole that could allow the US to be *constitutionally* changed into a dictatorship is worth remembering.)
+There are two main differences between Gadaa (and other institutions in Oromo polity) and US Congress. First, the Gadaa constitution is hitherto unwritten. Second, the Gadaa assembly is open to everyone, not only to a few. One can draw lessons from the other; an obvious example is making laws drafted via BitGadaa to be available in written form. It should be noted that consensus is once again key here. Law amendment in Gadaa could not be done by a single individual or even few people; "everyone" should agree.
 
-There is a project called *BitCongress* that aims at blockchain-based voting, and collaborative law drafting which could, in theory, replace Congress. BitGadaa can leverage parts of this platform should it be made available. The late Donald Levine who commented on the complexity of Gadaa, is known to have said "I only wish Congress operated more like Gumii [Gadaa assembly]". What both BitCongress and BitGadaa attempt to do is empower people so they can decide on their fate by leveraging technology, through direct democracy. Perhaps such learning and cultural integration is what Asmarom Legesse meant when he said "...the complementary integration of many diverse cultures."
+There is a project called *BitCongress* that aims at blockchain-based voting, and collaborative law drafting which could, in theory, replace Congress. BitGadaa can leverage parts of this platform should it be made available. The late Donald Levine who commented on the complexity of Gadaa, is known to have said "I only wish Congress operated more like Gumii [Gadaa assembly]". What both BitCongress and BitGadaa attempt to do is empower people so they can decide on their fate by leveraging technology through direct democracy. Perhaps such learning and cultural integration is what Asmarom Legesse meant when he said "...the complementary integration of many diverse cultures."
 
 #### 4.7. BitGadaa and Bitnation
 
@@ -147,7 +147,7 @@ The simulation of the Gadaa process described by Asmarom Legesse [1973] doesn’
 
 The parameters of the BitGadaa protocol are flexible by design. For example, the number 8 could represent months instead of years. Or the round robin algorithm for the 5 parties could be replaced with a voting scheme. BitGadaa could be instantiated for different scenarios with different settings. For instance, the functionality of the system can be demonstrated over a one-year period instead of eight years by appropriately setting the parameters.
 
-The simulation of Gadaa as BitGadaa will create what postmodern philosopher Jean Baudrillard refers to as a *simulacrum*. The practically non-existent Gadaa (for which a real copy is not readily available, only its symbols remain) is imitated in a different medium as BitGadaa, which serves an equivalent functionality (and more). Furthermore, since the BitGadaa endeavor is utilitarian, there is no need to be bound by the complex rules in the structure of Gadaa as long as the principles are retained and the system serves some purpose. Indeed BitGadaa is identical in terms of principles and borrows the basic structure of Gadaa as well as its nomenclature. Gadaa is known to have evolved over the past five centuries. So, should the Oromo decide, BitGadaa (or a similar system) could be taken as a natural evolution of the Gadaa System. Over time, (Bit)Gadaa becomes real.
+The simulation of Gadaa as BitGadaa will create what postmodern philosopher Jean Baudrillard refers to as a *simulacrum*. The practically non-existent Gadaa (for which a real copy is not readily available, only its symbols remain) is imitated in a different medium as BitGadaa, which serves an equivalent functionality (and more). Furthermore, since the BitGadaa endeavor is practical, there is no need to be bound by the complex rules in the structure of Gadaa as long as the principles are retained and the system serves some purpose. Indeed BitGadaa is identical in terms of principles and borrows the basic structure of Gadaa as well as its nomenclature. Gadaa is known to have evolved over the past five centuries. So, should the Oromo decide, BitGadaa (or a similar system) could be taken as a natural evolution of the Gadaa System. Over time, (Bit)Gadaa becomes real.
 
 
 #### 5.2. General Remarks
