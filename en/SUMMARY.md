@@ -28,7 +28,7 @@
    * [Technology Based Unbounded Future](technology_based_unbounded_future.md)
    * [The Networked Consumer](The_Networked_Consumer.md)
    * [The Role Of The Creative Agent](creative_agent.md)
-   * [BitGadaa: a Futuristic African Democracy](BitGadaa.md)
+   * [BitGadaa: Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
 * [Epilogue](epilogue.md)
 
