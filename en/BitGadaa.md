@@ -171,4 +171,4 @@ We have discussed how the future can be informed by the past and how the traditi
 
 ----
 
-The author can be reached via mail at <naol@gmx.com>.
+The author can be reached via mail at <naol@gmx.com>. Follow the project at [bitgadaa.org](http://bitgadaa.org).
