@@ -30,6 +30,6 @@
    * [The Role Of The Creative Agent](creative_agent.md)
    * [BitGadaa: Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
-* [Epilogue](epilogue.md)
 * Energy
+* [Epilogue](epilogue.md)
 
