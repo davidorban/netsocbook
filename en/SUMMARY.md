@@ -21,6 +21,7 @@
    * [Finance](finance.md)
    * [Trust And Security](trust_and_security.md)
    * [Governance And Policy](governance_and_policy.md)
+* Energy
 * [Pitfalls, Dangers, Promise And Opportunity](pitfalls,_dangers,_promise_and_opportunity.md)
    * [Immune Reactions Against The Shift](immune_reactions_against_the_shift.md)
    * [Disruption At A Planetary Scale](disruption_at_a_planetary_scale.md)
@@ -30,6 +31,5 @@
    * [The Role Of The Creative Agent](creative_agent.md)
    * [BitGadaa: Futuristic African Democracy](BitGadaa.md)
    * [The Pillar Of Energy In Tunisia](tunisia.md)
-* Energy
 * [Epilogue](epilogue.md)
 
