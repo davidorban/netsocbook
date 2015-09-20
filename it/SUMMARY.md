@@ -10,7 +10,7 @@
    * [Why Does Society Change?](why_does_society_change.md)
    * [The Decentralization Of The Functions of The State](the_decentralization_of_the_functions_of_the_state.md)
 * [Gli Otto Pilastri Del Cambiamento](theeight_pillars_of_change_md.md)
-   * [Energy](energy.md)
+   * [Energia](energy.md)
    * [Manufacturing](manufacturing.md)
    * [Food](food.md)
    * [Health](health.md)
