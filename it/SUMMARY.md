@@ -5,7 +5,6 @@
 * [Introduzione](introductionmd.md)
 * [Prefazione](prefacemd.md)
 * [Lo Stato Nazione, I Suoi Trionfi e I Suoi Limiti](thenation_state_,its_triumph_,and_its_limits_md.md)
-   * [The Limits Of Hierarchies](the_limits_of_hierarchies.md)
 * [The Technological Basis Of Social Evolution](the_technological_basis_of_social_evolution.md)
    * [Exponential Change](exponential_change.md)
    * [Why Does Society Change?](why_does_society_change.md)
