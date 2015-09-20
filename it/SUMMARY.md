@@ -11,7 +11,7 @@
    * [The Decentralization Of The Functions of The State](the_decentralization_of_the_functions_of_the_state.md)
 * [Gli Otto Pilastri Del Cambiamento](theeight_pillars_of_change_md.md)
    * [Energia](energymd.md)
-   * [Manufacturing](manufacturing.md)
+   * [Manifattura](manufacturing.md)
    * [Food](food.md)
    * [Health](health.md)
    * [Culture And Learning](culture_and_learning.md)
